@@ -1,0 +1,17 @@
+com\zale\bean\EmployeeExample.class
+com\zale\test\MBGTest.class
+com\zale\bean\Employee.class
+com\zale\dao\EmployeeMapper.class
+com\zale\bean\DepartmentExample$Criteria.class
+com\zale\bean\EmployeeExample$Criterion.class
+com\zale\service\EmployeeService.class
+com\zale\bean\DepartmentExample$Criterion.class
+com\zale\test\MvcTest.class
+com\zale\controller\EmployeeController.class
+com\zale\test\MapperTest.class
+com\zale\bean\Department.class
+com\zale\bean\DepartmentExample$GeneratedCriteria.class
+com\zale\bean\EmployeeExample$Criteria.class
+com\zale\dao\DepartmentMapper.class
+com\zale\bean\DepartmentExample.class
+com\zale\bean\EmployeeExample$GeneratedCriteria.class
